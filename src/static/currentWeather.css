@@ -1,0 +1,7 @@
+.favorite-btn {
+    border: none;
+    cursor: pointer;
+    appearance: none;
+    background-color: inherit;
+    margin-left:5px;
+}
